@@ -1,0 +1,17 @@
+{
+  "name": "prismloader",
+  "version": "0.0.1",
+  "description": "Dynamic prism.js language files loader on web browser",
+  "main": "PrismLoader.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sters/prismloader-js.git"
+  },
+  "author": "sters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sters/prismloader-js/issues"
+  },
+  "homepage": "https://github.com/sters/prismloader-js#readme"
+}
